@@ -17,26 +17,59 @@ The EG-Password Tool is a versatile Python script designed for generating strong
 - **Clipboard Integration:** Copies generated passwords for immediate use, enhancing convenience.
 
 ## Usage:
+## Installation Instructions
+
+### Windows
+
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/EagleEyesPrim/Eagle-Fortify-Tool.git
    ```
 
-2. Install dependencies:
+2. Navigate to the directory:
    ```bash
-   pip install pyperclip colorama
+   cd Eagle-Fortify-Tool
    ```
 
-3. Make the script executable:
+3. Install dependencies using pip:
    ```bash
-   chmod +x password_tool.py
+   pip install -r requirements.txt
    ```
 
 4. Run the tool:
    ```bash
-   ./password_tool.py
+   python EF-Tool.py
    ```
+
+### Linux
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/EagleEyesPrim/Eagle-Fortify-Tool.git
+   ```
+
+2. Navigate to the directory:
+   ```bash
+   cd Eagle-Fortify-Tool
+   ```
+
+3. Install dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Make the script executable:
+   ```bash
+   chmod +x EF-Tool.py
+   ```
+
+5. Run the tool:
+   ```bash
+   ./EF-Tool.py
+   ```
+
+
+These instructions provide a clear guide on how to install and run the tool on both Windows and Linux systems.
 
 ## License:
 
