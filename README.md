@@ -68,9 +68,6 @@ The EG-Password Tool is a versatile Python script designed for generating strong
    ./EF-Tool.py
    ```
 
-
-These instructions provide a clear guide on how to install and run the tool on both Windows and Linux systems.
-
 ## License:
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
