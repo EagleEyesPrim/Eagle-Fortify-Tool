@@ -65,12 +65,17 @@ The EG-Password Tool is a versatile Python script designed for generating strong
 
 4. Make the script executable:
    ```bash
-   chmod +x EF-Tool.py
+   chmod +x EF_Tool.py
    ```
 
-5. Run the tool:
+5. Create a symbolic link:
    ```bash
-   ./EF-Tool.py
+   sudo ln -s /path/to/Eagle-Fortify-Tool/EF_Tool.py /usr/local/bin/eftool
+   ```
+
+6. Run the tool:
+   ```bash
+   eftool
    ```
 
 ## License:
