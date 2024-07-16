@@ -1,7 +1,3 @@
-Certainly! Here's a formatted description box for your GitHub README:
-
-```markdown
-```
 # EG-Password Tool
 
 The EG-Password Tool is a versatile Python script designed for generating strong passwords, improving existing passwords, and generating custom email addresses with passwords. It includes multiple password generation algorithms tailored for different security needs, from basic to high-security accounts. The tool also provides password strength analysis, password improvement options, and security tips to enhance online safety.
