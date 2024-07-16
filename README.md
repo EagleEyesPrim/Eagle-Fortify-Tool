@@ -70,7 +70,7 @@ The EG-Password Tool is a versatile Python script designed for generating strong
 
 5. Create a symbolic link:
    ```bash
-   sudo ln -s /path/to/Eagle-Fortify-Tool/EF_Tool.py /usr/local/bin/eftool
+   sudo ln -s /Eagle-Fortify-Tool/EF_Tool.py /usr/local/bin/eftool
    ```
 
 6. Run the tool:
