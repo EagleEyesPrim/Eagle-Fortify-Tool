@@ -19,7 +19,7 @@ The EG-Password Tool is a versatile Python script designed for generating strong
 ## Usage:
 ## Installation Instructions
 
-### Windows
+### → Windows
 
 1. Clone the repository:
    ```bash
@@ -46,7 +46,7 @@ The EG-Password Tool is a versatile Python script designed for generating strong
    eftool
    ```
 
-### Linux
+### → Linux
 
 1. Clone the repository:
    ```bash
