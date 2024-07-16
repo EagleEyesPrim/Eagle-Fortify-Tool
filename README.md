@@ -35,10 +35,15 @@ The EG-Password Tool is a versatile Python script designed for generating strong
    ```bash
    pip install -r requirements.txt
    ```
-
-4. Run the tool:
+   
+4. Install dependencies using pip:
    ```bash
-   python EF-Tool.py
+   pip install .
+   ```
+   
+5. Run the tool:
+   ```bash
+   eftool
    ```
 
 ### Linux
