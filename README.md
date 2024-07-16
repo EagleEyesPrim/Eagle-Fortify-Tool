@@ -1,4 +1,6 @@
-# EG-Password Tool
+# Eagle Fortify Tool
+![EFT Logo](https://github.com/EagleEyesPrim/Eagle-Fortify-Tool/blob/bdeaee812c7b09e20b9a7e8b190a0e147197e5a0/Eagle%20Fortify%20Tool%20cover.png)
+
 
 The EG-Password Tool is a versatile Python script designed for generating strong passwords, improving existing passwords, and generating custom email addresses with passwords. It includes multiple password generation algorithms tailored for different security needs, from basic to high-security accounts. The tool also provides password strength analysis, password improvement options, and security tips to enhance online safety.
 
